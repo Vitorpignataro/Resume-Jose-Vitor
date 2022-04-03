@@ -7,9 +7,9 @@
 </div>
 
 # Resume-Jose-Vitor EN
-![Resume- José Vitor Alves Pignataro EN](https://user-images.githubusercontent.com/52422803/161410592-03d5162f-5db8-45b8-b24b-b78020ecc07c.jpg)
+![Resume- José Vitor Alves Pignataro](https://user-images.githubusercontent.com/52422803/161454489-f8f22d9d-e8fb-4d12-88b0-479384d53a6d.jpg)
 <div>
-  <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor/files/8403801/Resume-.Jose.Vitor.Alves.Pignataro.EN.pdf">
+  <a href="https://github.com/Vitorpignataro/Resume-Jose-Vitor/files/8405862/Resume-.Jose.Vitor.Alves.Pignataro.pdf">
     Resume EN - Download
   </a>
 </div>
