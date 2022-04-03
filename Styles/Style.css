@@ -1,0 +1,139 @@
+/* Configurações Gerais e Seletores */
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p, h3{
+    text-align: left;
+    margin: 0;
+}
+
+h3{
+    margin-bottom: 0;
+}
+
+ul{
+    list-style-type: none;
+    padding-inline-start: 0px;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Container e Conteúdo Direta/Esquerda */
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 1000px;
+    min-width: 900px;
+    margin: 0 auto;
+    border-radius: 1px solid #000;
+}
+
+/* Conteúdo Esquerda */
+
+.info-left{
+    grid-column: 1;
+    padding: 30px 50px;
+    text-align: center;
+    background-color: #3b3b3b;
+    width: 272px;
+}
+
+.foto-curriculum{
+    width: 80%;
+    border-radius: 50%;
+}
+
+.info-left > h1, h3 {
+    color: #ffea5d;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.title{
+    font-size: 1.9rem;
+}
+
+.subtitle-career{
+    color: #fefefa;
+    border-bottom: 2px solid #ffea5d;
+}
+
+.info-left p{
+    color: #fefefa;
+    margin-bottom: 20px;
+    font-weight: 600px;
+    font-size: 0.9rem;
+    line-height: 1.2rem;
+}
+
+.social-content{
+    text-align: left;
+}
+
+.social-content li{
+    margin: 10px 0;
+}
+
+.icons, .links, .links-extra{
+    color: #fefefa;
+}
+
+.links-extra{
+    font-size: 0.8rem;
+}
+
+.icons{
+    font-size: 30px;
+}
+
+
+
+/* Conteúdo Direita */
+
+.info-right{
+    border: 1px solid #000;
+    grid-column: 2 / -1;
+    padding: 30px 80px;
+}
+
+.skills-content{
+    color: #494e5f;
+    margin-bottom: 30px;
+}
+
+.skills-content > h1{
+    background-color: #ffea5d;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.skills-content > h3, .skills-content div h3{
+    text-transform: none;
+    color: #494e5f;
+    font-weight: 900;
+    margin: 5px 0;
+}
+.skills-content > h4, .skills-content div h4{
+    letter-spacing: 2px;
+    margin: 10px 0;
+}
+
+.skills-content p{
+    font-size: 0.8rem;
+    margin: 5px 0;
+}
+
+.tech-skills p{
+    margin-bottom: 10px;
+}
+
+
